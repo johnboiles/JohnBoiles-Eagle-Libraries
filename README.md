@@ -1,6 +1,6 @@
 Custom EAGLE library with misc parts.
 
-## To Install:
+## Installation
 
 1. Git clone this project inside your `EAGLE/lbr/` folder. (Keeping it in a subfolder such as `EAGLE/lbr/johnboiles/` is fine)
 2. Open EAGLE
